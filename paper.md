@@ -106,6 +106,7 @@
   + HinDroid: An Intelligent Android Malware Detection System Based on Structured Heterogeneous Information Network, KDD 2017 (tool: HinDroid)
   + Detection of Repackaged Android Malware with Code-Heterogeneity Features, TDSC 2017 (tool: DR-Droid)
   + SecureDroid: Enhancing Security of Machine Learning-based Detection against Adversarial Android Malware Attacks, ACSAC 2017 (SecureDroid)
+  + Android Malware Detection Based on Deep Learning, ICCC 2018 ([paper](https://doi.org/10.1109/CompComm.2018.8781037))
   + TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time, USENIX Security 2019 (tool: TESSERACT)
   + SEdroid: A Robust Android Malware Detector using Selective Ensemble Learning, CCS 2019 (not quite sure) (tool: SEdroid)
   + DroidEvolver: Self-Evolving Android Malware Detection System, Euro S&P 2019
@@ -617,4 +618,3 @@
 ## Android Crash Analysis and Repair
 + Large-Scale Analysis of Framework-Specific Exceptions in Android Apps, ICSE 2018
 + Repairing Crashes in Android Apps, ICSE 2018
-
